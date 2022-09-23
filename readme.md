@@ -1,0 +1,1 @@
+```docker run --name some-cassandra --network some-network -d -p 9142:9142 -p 9042:9042 cassandra:latest```
